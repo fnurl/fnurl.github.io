@@ -1,6 +1,9 @@
 baseURL: "https://fnurl.github.io/"
 languageCode: "en-us"
+defaultContentLanguage: "en"
 title: "fnurl.github"
-theme: "hugo-paper"
+theme: "tale"
 publishDir: docs
+author:
+  name: fnurl
 
